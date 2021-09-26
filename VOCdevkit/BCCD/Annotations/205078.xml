@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205078.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205078.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>91.07344632768363</xmin>
+        <ymin>334.32768361581924</ymin>
+        <xmax>201.53672316384183</xmax>
+        <ymax>416</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.8361581920904</xmin>
+        <ymin>179.20903954802262</ymin>
+        <xmax>179.2090395480226</xmax>
+        <ymax>259.941257282839</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>138.3728813559322</xmin>
+        <ymin>137.2565007613877</ymin>
+        <xmax>180.67796610169492</xmax>
+        <ymax>179.09153618246822</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.6271186440678</xmin>
+        <ymin>113.28362657794845</ymin>
+        <xmax>215.9322033898305</xmax>
+        <ymax>130.6757026284428</ymax>
+    </bndbox>
+</object><object>
+    <name>signal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>222.04295219809322</xmin>
+        <ymin>47.4757080078125</ymin>
+        <xmax>229.09379965572035</xmax>
+        <ymax>60.167237017787784</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>205.59097479696328</xmin>
+        <ymin>306.9469070003531</ymin>
+        <xmax>255.4169563250353</xmax>
+        <ymax>379.3356147378178</ymax>
+    </bndbox>
+</object>
+</annotation>

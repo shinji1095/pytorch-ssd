@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205071.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205071.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>90.89718231373588</xmin>
+        <ymin>126.44520491260593</ymin>
+        <xmax>325.4553815766243</xmax>
+        <ymax>217.63615460584393</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.30736615024718</xmin>
+        <ymin>214.34577347060383</ymin>
+        <xmax>127.50282485875707</xmax>
+        <ymax>256.180790960452</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>129.26553672316385</xmin>
+        <ymin>224.45197740112997</ymin>
+        <xmax>159.81920903954804</xmax>
+        <ymax>264.9943502824859</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>161.5819209039548</xmin>
+        <ymin>233.26553672316385</ymin>
+        <xmax>189.60904672051552</xmax>
+        <ymax>280.271186440678</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>191.01923055702684</xmin>
+        <ymin>249.59999282750707</ymin>
+        <xmax>233.32431530278956</xmax>
+        <ymax>297.0757277321681</ymax>
+    </bndbox>
+</object>
+</annotation>

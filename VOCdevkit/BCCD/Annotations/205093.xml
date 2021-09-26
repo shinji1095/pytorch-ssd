@@ -1,0 +1,114 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205093.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205093.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>90.42713298905367</xmin>
+        <ymin>163.42857142857144</ymin>
+        <xmax>290.83982683982686</xmax>
+        <ymax>237.2640692640693</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.2943722943723</xmin>
+        <ymin>356.1212121212121</ymin>
+        <xmax>116.15584415584416</xmax>
+        <ymax>413.1796681894423</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102.42424242424242</xmin>
+        <ymin>334.06060606060606</ymin>
+        <xmax>176.25974025974025</xmax>
+        <ymax>376.3809523809524</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>187.06493506493507</xmin>
+        <ymin>296.6926406926407</ymin>
+        <xmax>221.73160173160176</xmax>
+        <ymax>349.3679653679653</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>149.69696969696972</xmin>
+        <ymin>311.54978354978357</ymin>
+        <xmax>174.45887445887448</xmax>
+        <ymax>375.03030303030306</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>219.4805194805195</xmin>
+        <ymin>283.1861471861472</ymin>
+        <xmax>259.54978354978357</xmax>
+        <ymax>331.35930735930737</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>248.2943722943723</xmin>
+        <ymin>276.43290043290045</ymin>
+        <xmax>292.4155844155844</xmax>
+        <ymax>315.6017316017316</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>279.35930735930737</xmin>
+        <ymin>270.5800865800866</ymin>
+        <xmax>319.42857142857144</xmax>
+        <ymax>304.34632034632034</ymax>
+    </bndbox>
+</object><object>
+    <name>signal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>182.1125541125541</xmin>
+        <ymin>45.47186147186147</ymin>
+        <xmax>192.017316017316</xmax>
+        <ymax>67.08225108225108</ymax>
+    </bndbox>
+</object>
+</annotation>

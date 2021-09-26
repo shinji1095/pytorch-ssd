@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205069.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205069.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>90.42713298905367</xmin>
+        <ymin>134.4361689508298</ymin>
+        <xmax>324.9853322519421</xmax>
+        <ymax>238.78869697872528</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>91.36723163841808</xmin>
+        <ymin>249.71751412429379</ymin>
+        <xmax>119.86440677966101</xmax>
+        <ymax>280.271186440678</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>115.75141242937853</xmin>
+        <ymin>256.180790960452</ymin>
+        <xmax>149.83050847457628</xmax>
+        <ymax>277.92090395480227</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>148.24406062411722</xmin>
+        <ymin>263.2316384180791</ymin>
+        <xmax>189.60904672051552</xmax>
+        <ymax>288.6146964380297</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>90.89718231373588</xmin>
+        <ymin>274.98305084745766</ymin>
+        <xmax>149.65424446062855</xmax>
+        <ymax>314.93785310734467</ymax>
+    </bndbox>
+</object>
+</annotation>

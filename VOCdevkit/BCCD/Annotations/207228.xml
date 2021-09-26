@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>207228.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/207228.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.24746479961159</xmin>
+        <ymin>138.66666666666669</ymin>
+        <xmax>304.30283920374296</xmax>
+        <ymax>252.42036050052968</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.77741547492938</xmin>
+        <ymin>277.33333333333337</ymin>
+        <xmax>324.045197740113</xmax>
+        <ymax>351.13222490730936</ymax>
+    </bndbox>
+</object>
+</annotation>

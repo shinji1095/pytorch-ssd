@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205079.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205079.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>138.66666666666669</xmin>
+        <ymin>172.1581920903955</ymin>
+        <xmax>317.2881355932204</xmax>
+        <ymax>229.38758496645482</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>151.00564971751413</xmin>
+        <ymin>318.46327683615823</ymin>
+        <xmax>235.02824858757063</xmax>
+        <ymax>384.271186440678</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>240.8452120850989</xmin>
+        <ymin>341.2610097766596</ymin>
+        <xmax>325.9254309013065</xmax>
+        <ymax>414.5898520259534</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>162.81584072651836</xmin>
+        <ymin>144.30734821901484</ymin>
+        <xmax>272.8090323755297</xmax>
+        <ymax>170.63050488832982</ymax>
+    </bndbox>
+</object><object>
+    <name>signal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>217.90476190476193</xmin>
+        <ymin>70.68398268398269</ymin>
+        <xmax>225.10822510822516</xmax>
+        <ymax>84.14011120122707</ymax>
+    </bndbox>
+</object>
+</annotation>

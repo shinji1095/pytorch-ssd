@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>205089.png</filename>
+    <path>wadaken-study-PascalVOC-export/Annotations/205089.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>152.62337662337663</xmin>
+        <ymin>141.36796536796544</ymin>
+        <xmax>250.32034632034635</xmax>
+        <ymax>179.63636363636365</ymax>
+    </bndbox>
+</object><object>
+    <name>brailleblock</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>92.30736615024718</xmin>
+        <ymin>272.1627190368997</ymin>
+        <xmax>322.6350497660664</xmax>
+        <ymax>384.5062290342514</ymax>
+    </bndbox>
+</object><object>
+    <name>signal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>223.0822510822511</xmin>
+        <ymin>71.13419913419914</ymin>
+        <xmax>228.93506493506496</xmax>
+        <ymax>83.29004329004329</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>136.1904761904762</xmin>
+        <ymin>152.17316017316017</ymin>
+        <xmax>253.69696969696972</xmax>
+        <ymax>193.5930735930736</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>91.16883116883118</xmin>
+        <ymin>172.88311688311688</ymin>
+        <xmax>273.95670995671</xmax>
+        <ymax>237.71428571428572</ymax>
+    </bndbox>
+</object>
+</annotation>
